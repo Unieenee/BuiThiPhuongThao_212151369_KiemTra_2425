@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhuongThao.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e75c7f64ede0485a63e8cae165c03ac81bd83205")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhuongThao.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhuongThao.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
